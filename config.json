@@ -1,0 +1,11 @@
+{
+  "watch_folder": "AutoSort",
+  "remove_duplicates": true,
+  "categories": {
+    "Images": [".jpg", ".jpeg", ".png", ".gif"],
+    "Videos": [".mp4", ".mkv", ".mov"],
+    "Documents": [".pdf", ".docx", ".pptx", ".txt"],
+    "Code": [".py", ".js", ".cpp", ".java"],
+    "Archives": [".zip", ".rar"]
+  }
+}
