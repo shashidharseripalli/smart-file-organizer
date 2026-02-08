@@ -89,18 +89,19 @@ Customize:
 
 Why This Project Matters
 This demonstrates:
-OS automation
-Event-driven systems
-File handling
-Background services
-Real-world Python engineering
-Not a toy script — a practical automation tool.
+#OS automation
+#Event-driven systems
+#File handling
+#Background services
+#Real-world Python engineering
+#Not a toy script — a practical automation tool.
 
 
 Future Improvements
-Multiple folder support
-File stats dashboard
-System tray app
-Packaging as .exe
-ML-based file classification 
+#Multiple folder support
+#File stats dashboard
+#System tray app
+#Packaging as .exe
+#ML-based file classification 
+
 
