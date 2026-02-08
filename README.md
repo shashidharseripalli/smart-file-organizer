@@ -81,10 +81,12 @@ Edit config.json:
   "remove_duplicates": true
 }
 
+```
 Customize:
 -folders
 -extensions
 -categories
+
 Why This Project Matters
 This demonstrates:
 OS automation
@@ -93,9 +95,12 @@ File handling
 Background services
 Real-world Python engineering
 Not a toy script — a practical automation tool.
+
+
 Future Improvements
 Multiple folder support
 File stats dashboard
 System tray app
 Packaging as .exe
 ML-based file classification 
+
