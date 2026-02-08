@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# User data
+AutoSort/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
